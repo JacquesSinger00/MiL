@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2024.2.4),
-    on Mon 12 Jan 09:11:09 2026
+    on Mon 12 Jan 13:19:57 2026
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -532,7 +532,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
          lineSpacing=1.0, speechPoint=None,
          padding=0.0, alignment='center',
          anchor='center', overflow='visible',
-         fillColor=None, borderColor=[1.0000, -1.0000, -1.0000],
+         fillColor=None, borderColor=[-1.0000, 1.0000, -1.0000],
          flipHoriz=False, flipVert=False, languageStyle='LTR',
          editable=False,
          name='task2_textbox',
@@ -976,7 +976,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         method='random', 
         extraInfo=expInfo, 
         originPath=-1, 
-        trialList=data.importConditions('/Users/jacquessinger/Documents/Academics/Research/BCI Projects/MIL_PsychoPy_fMRI/prompts.xlsx'), 
+        trialList=data.importConditions('../prompts.xlsx'), 
         seed=None, 
     )
     thisExp.addLoop(trials)  # add the loop to the experiment

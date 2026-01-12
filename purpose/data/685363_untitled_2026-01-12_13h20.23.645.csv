@@ -1,0 +1,67 @@
+﻿coherence_instructions,significance_instructions,purpose_instructions,AI_instructions,thisN,thisTrialN,thisRepN,key_resp.keys,key_resp.rt,key_resp.duration,coherence_text_01,coherence_text_02,coherence_text_03,purpose_text_01,purpose_text_02,purpose_text_03,significance_text_01,significance_text_02,significance_text_03,AI_text_01,AI_text_02,AI_text_03,training_text_coherence,training_text_significance,training_text_purpose,trials_2.thisRepN,trials_2.thisTrialN,trials_2.thisN,trials_2.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,trial.started,key_resp.started,instruct.started,trial.stopped,trials_2.key_resp.keys,trials_2.key_resp.rt,trials_2.key_resp.duration,sync_fMRI.started,key_resp_2.started,sync_fMRI.stopped,key_resp_2.keys,key_resp_2.rt,key_resp_2.duration,rest.started,rest_fixation.started,rest.stopped,reading.started,purp_textbox.started,reading.stopped,task.started,textbox_task.started,textbox_task.stopped,task.stopped,task_verification.started,task_verification_message.started,task_verification_message.stopped,task_verification.stopped,control.started,textbox.started,textbox.stopped,control.stopped,control_verification.started,text.started,text.stopped,control_verification.stopped,rest_fixation.stopped,reading2.started,reading2_textbox.started,reading2_textbox.stopped,reading2.stopped,control2.started,control2_textbox.started,control2_textbox.stopped,control2.stopped,task2.started,task2_textbox.started,task2_textbox.stopped,task2.stopped,reading3.started,reading3_textbox.started,reading3_textbox.stopped,reading3.stopped,task3.started,task3_textbox.started,task3_textbox.stopped,task3.stopped,control3.started,control3_textbox.started,control3_textbox.stopped,control3.stopped,end.started,end_message.started,end_message.stopped,end.stopped,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+"In this task, you’ll see short phrases describing  events from your life.
+ 
+ • When the text has a white border, simply read the text 
+ 
+ • When the text box has a <c=#008000>green</c> border, think about how these events fit together and form a coherent life story. 
+ 
+ • When the text box has a <c=#FF0000>red</c> border, count the number of vowels. Keep repeating this counting task until the next screen appears. 
+ 
+ Press any key when you’re ready!","In this task, you will read some of your personal statements. 
+ 
+ • When the text box has a white border, simply read the text. 
+ 
+ • When the text box has a <c=#008000>green</c> border, think about all the ways you are significant to this person. Bring to mind specific actions or moments where your presence mattered. 
+ 
+ • When the text box has a <c=#FF0000>red</c> border, count how many vowels appear. Keep repeating this counting task until the next screen appears. 
+ 
+ Press any key when you’re ready!","In this task, you will read a short phrases describing some of your life purposes. 
+ 
+ • When the text box has a white border, simply read the sentence as it appears. 
+ 
+ • When the text box has a <c=#008000>green</c> border, reflect on the life purpose shown and consider how you might work toward it. 
+ 
+ • When the text box has a <c=#FF0000>red</c> border, count the number of vowels and continue this counting task until the next screen appears. 
+ 
+Press any button when you're ready.","In this task, you will read scenarios describing how your life purpose is disrupted by AI.
+ 
+ • When the text box has a white border, simply read the scenario as it appears. 
+ 
+ • When the text box has a <c=#008000>green</c> border, read the scenario carefully, reflect on how this integration disrupts your purpose, and try to reframe it. 
+ 
+  • When the text box has a <c=#FF0000>red</c> border, count the number vowels, and continue this counting task until the next screen appears.",0,0,0,right,2.5395989160169847,None,,,,,,,,,,,,,,,,0,0,0,0,,,,,0.05517658297321759,,0.022442457993747666,0.05517658297321759,0.05517658297321759,2.7301095409784466,right,2.5395989160169847,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,685363,001,2026-01-12_13h20.23.645,untitled,2024.2.4,None,2026-01-12 13h20.32.906711 -0800,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2.73019054098404,2.829583749989979,4.148179040988907,5,1.310658667003736,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,685363,001,2026-01-12_13h20.23.645,untitled,2024.2.4,None,2026-01-12 13h20.32.906711 -0800,
+,,,,0,0,0,,,,"Moving to Montreal 
+ 
+ Studying Cogntive Science 
+ 
+ Graduating ","Moving to Paris 
+ 
+ Studying neuroscience 
+ 
+ Conducting research","Moving to LA 
+ 
+ Studying at the BCI 
+ 
+ Writing a review ",Becoming a scientist,Advancing research,Making science accessible,"I am significant to my parents. 
+ 
+ We are  connected. 
+ 
+ I play an important role in keeping us close-knit.","I am  significant to my sister. 
+ 
+ We are  close. 
+ 
+ I am the only person with whom she talks. ","I am significant to my dad. 
+ 
+ We  play together. 
+ 
+ We are close. ","I want to be a good doctor, but AI now makes most medical decisions.","I want to protect the planet, but AI’s resource use is harming the environment.","I want to help people, but AI is replacing real human interaction.","Woke up this morning. 
+ 
+ Came to USC. 
+ 
+ Arrived at the BCI.","Mother 
+ 
+ Father 
+ 
+ Friends",Helping researchers,,,,,0,0,0,0,4.172350957989693,,,,,,,,,,,,,,,143.13312079099705,143.1366701659863,155.12313216598704,16.154011374979746,16.16782691597473,21.15309399997932,21.15321308298735,21.161299290979514,41.15157824999187,41.146906790992944,180.13342341597308,180.13883020798676,185.1315389579977,185.1249557909905,46.137682540982496,46.145306999998866,66.13593195797876,66.1307967909961,205.1337228329794,205.139023249998,210.13245758297853,210.12435791597818,155.130982749979,83.13191883297986,83.15159445797326,93.14621674999944,93.13941233299556,93.13952599998447,93.14621674999944,113.13600287499139,113.13191683299374,118.13304020799114,118.14680024998961,138.1367335409741,138.132555958,155.1233804159856,155.14929979099543,160.1475924999977,160.1399193329853,160.1400405409804,160.1475924999977,180.13883020798676,180.13340083297226,185.1251930409926,185.1409703749814,205.139023249998,205.13370187499095,,,,,685363,001,2026-01-12_13h20.23.645,untitled,2024.2.4,None,2026-01-12 13h20.32.906711 -0800,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,210.12447649997193,210.1391935829888,222.1322729579988,222.12407279098989,685363,001,2026-01-12_13h20.23.645,untitled,2024.2.4,None,2026-01-12 13h20.32.906711 -0800,

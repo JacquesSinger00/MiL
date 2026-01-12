@@ -700,7 +700,7 @@
         <Param val="center" valType="str" updates="constant" name="anchor"/>
         <Param val="True" valType="bool" updates="constant" name="autoLog"/>
         <Param val="False" valType="bool" updates="constant" name="bold"/>
-        <Param val="1.0000, -1.0000, -1.0000" valType="color" updates="constant" name="borderColor"/>
+        <Param val="-1.0000, 1.0000, -1.0000" valType="color" updates="constant" name="borderColor"/>
         <Param val="6" valType="num" updates="constant" name="borderWidth"/>
         <Param val="white" valType="color" updates="constant" name="color"/>
         <Param val="rgb" valType="str" updates="constant" name="colorSpace"/>
