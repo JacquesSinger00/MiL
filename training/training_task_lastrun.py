@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2024.2.4),
-    on Mon 12 Jan 09:18:10 2026
+    on Mon 12 Jan 14:42:32 2026
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -612,13 +612,6 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         depth=0.0);
     
     # --- Initialize components for Routine "instructions_purpose" ---
-    purpose_instructions = visual.TextStim(win=win, name='purpose_instructions',
-        text="In this task, you will read a short phrase describing one of your life purposes.\n\n • When the text box has a white border, simply read the phrase.\n\n • When the text box has a green border, reflect on that purpose and consider how you might pursue it.\n\n • When the text box has a red border, count the number of vowels. Continue this counting task until the next screen appears.\n\nPress any key when you're ready!",
-        font='Arial',
-        pos=(0, 0), draggable=False, height=0.05, wrapWidth=None, ori=0.0, 
-        color='white', colorSpace='rgb', opacity=None, 
-        languageStyle='LTR',
-        depth=0.0);
     key_resp_4 = keyboard.Keyboard(deviceName='key_resp_4')
     textbox_4 = visual.TextBox2(
          win, text='', placeholder='Type here...', font='Arial',
@@ -634,7 +627,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
          flipHoriz=False, flipVert=False, languageStyle='LTR',
          editable=False,
          name='textbox_4',
-         depth=-2, autoLog=True,
+         depth=-1, autoLog=True,
     )
     
     # --- Initialize components for Routine "purpose_reading" ---
@@ -929,7 +922,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             method='random', 
             extraInfo=expInfo, 
             originPath=-1, 
-            trialList=data.importConditions('/Users/jacquessinger/Documents/Academics/Research/BCI Projects/MIL_PsychoPy_fMRI/prompts.xlsx'), 
+            trialList=data.importConditions('../prompts.xlsx'), 
             seed=None, 
         )
         thisExp.addLoop(trials)  # add the loop to the experiment
@@ -3085,7 +3078,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # create an object to store info about Routine instructions_purpose
             instructions_purpose = data.Routine(
                 name='instructions_purpose',
-                components=[purpose_instructions, key_resp_4, textbox_4],
+                components=[key_resp_4, textbox_4],
             )
             instructions_purpose.status = NOT_STARTED
             continueRoutine = True
@@ -3127,26 +3120,6 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 tThisFlipGlobal = win.getFutureFlipTime(clock=None)
                 frameN = frameN + 1  # number of completed frames (so 0 is the first frame)
                 # update/draw components on each frame
-                
-                # *purpose_instructions* updates
-                
-                # if purpose_instructions is starting this frame...
-                if purpose_instructions.status == NOT_STARTED and tThisFlip >= 0.0-frameTolerance:
-                    # keep track of start time/frame for later
-                    purpose_instructions.frameNStart = frameN  # exact frame index
-                    purpose_instructions.tStart = t  # local t and not account for scr refresh
-                    purpose_instructions.tStartRefresh = tThisFlipGlobal  # on global time
-                    win.timeOnFlip(purpose_instructions, 'tStartRefresh')  # time at next scr refresh
-                    # add timestamp to datafile
-                    thisExp.timestampOnFlip(win, 'purpose_instructions.started')
-                    # update status
-                    purpose_instructions.status = STARTED
-                    purpose_instructions.setAutoDraw(True)
-                
-                # if purpose_instructions is active this frame...
-                if purpose_instructions.status == STARTED:
-                    # update params
-                    pass
                 
                 # *key_resp_4* updates
                 waitOnFlip = False
