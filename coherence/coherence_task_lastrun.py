@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2024.2.4),
-    on Sun 11 Jan 10:25:59 2026
+    on Mon 12 Jan 12:48:57 2026
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -979,7 +979,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         method='random', 
         extraInfo=expInfo, 
         originPath=-1, 
-        trialList=data.importConditions('/Users/jacquessinger/Documents/Academics/Research/BCI Projects/MIL_PsychoPy_fMRI/prompts.xlsx'), 
+        trialList=data.importConditions('../prompts.xlsx'), 
         seed=None, 
     )
     thisExp.addLoop(trials)  # add the loop to the experiment
