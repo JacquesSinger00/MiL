@@ -1,0 +1,159 @@
+25.1022 	WARNING 	Font Manager failed to load file /System/Library/PrivateFrameworks/FontServices.framework/Resources/Reserved/PingFangUI.ttc
+27.4636 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+27.4645 	INFO 	Loaded monitor calibration from ['2025_03_31 17:28']
+27.7127 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x168df3af0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x168df3b50>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x168deb6a0>, multiSample=False, name='window1', numSamples=2, pos=[560.0, 300.0], screen=0, size=array([800, 600]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+27.7128 	EXP 	window1: backgroundImage = ''
+27.7128 	EXP 	window1: backgroundFit = 'none'
+27.7239 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7246 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7252 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7260 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7268 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7272 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7278 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7286 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7288 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7291 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7297 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7303 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7308 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7314 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7319 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7326 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7332 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7335 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7338 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7347 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7350 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7353 	DEBUG 	Uploading Texture Font fontname to graphics card
+27.7400 	DEBUG 	Upload of Texture Font fontname complete
+27.7466 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7475 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7483 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+27.7486 	DEBUG 	Uploading Texture Font fontname to graphics card
+27.7508 	DEBUG 	Upload of Texture Font fontname complete
+27.7527 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+27.7527 	EXP 	window1: recordFrameIntervals = False
+28.0055 	EXP 	window1: recordFrameIntervals = True
+28.8396 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+28.8450 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+28.8454 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+28.8461 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+28.8471 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+28.8479 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+28.8488 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+28.8492 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+28.8500 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+28.8508 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+28.8516 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+28.8519 	DEBUG 	Uploading Texture Font fontname to graphics card
+28.8547 	DEBUG 	Upload of Texture Font fontname complete
+32.5759 	INFO 	keyboard.Keyboard is using ptb backend.
+33.2059 	INFO 	keyboard.Keyboard is using ptb backend.
+33.8166 	INFO 	keyboard.Keyboard is using ptb backend.
+34.4248 	INFO 	keyboard.Keyboard is using ptb backend.
+35.0195 	INFO 	keyboard.Keyboard is using ptb backend.
+35.6144 	INFO 	keyboard.Keyboard is using ptb backend.
+36.2195 	INFO 	keyboard.Keyboard is using ptb backend.
+36.2196 	EXP 	untitled: status = STARTED
+36.2560 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+36.2665 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.2675 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.2684 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.2692 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.2695 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.2698 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.2708 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.2714 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.2718 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+36.2719 	DEBUG 	Uploading Texture Font fontname to graphics card
+36.2750 	DEBUG 	Upload of Texture Font fontname complete
+36.2779 	EXP 	Created rest_fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='rest_fixation', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+36.2985 	EXP 	Created task_verification_message = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_verification_message', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+36.3099 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+36.3110 	EXP 	Created rest_fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='rest_fixation', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+36.3367 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+36.3470 	EXP 	Created task_verification_message = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_verification_message', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+36.3482 	EXP 	Created rest_fixation = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='rest_fixation', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='height', win=Window(...), wrapWidth=1)
+36.3738 	EXP 	Created task_verification_message = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='task_verification_message', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+36.3843 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+36.3870 	EXP 	Created end_message = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='end_message', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='You have completed the task.', units='height', win=Window(...), wrapWidth=1)
+0.0032 	EXP 	textbox_2: autoLog = True
+0.0032 	EXP 	textbox_coherence: autoLog = True
+0.0032 	EXP 	textbox_task: autoLog = True
+0.0032 	EXP 	textbox: autoLog = True
+0.0032 	EXP 	textbox_3: autoLog = True
+0.0032 	EXP 	reading2_textbox: autoLog = True
+0.0032 	EXP 	control2_textbox: autoLog = True
+0.0032 	EXP 	task2_textbox: autoLog = True
+0.0032 	EXP 	textbox_4: autoLog = True
+0.0032 	EXP 	reading3_textbox: autoLog = True
+0.0032 	EXP 	task3_textbox: autoLog = True
+0.0032 	EXP 	control3_textbox: autoLog = True
+0.0137 	DEBUG 	Read excel file with openpyxl: ../instructions.xlsx
+0.0139 	EXP 	Imported ../instructions.xlsx as conditions, 1 conditions, 4 params
+0.0147 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'coherence_instructions': "In this task, you’ll see phrases about events in your life.\n\nWhen the text box has a:\n\n• <c=white>White</c> border: read the sentence.\n\n• <c=#008000>Green</c> border: reflect on how these events fit together to form your life story.\n\n• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.\n\nPress any key when you're ready.", 'significance_instructions': 'In this task, you will read some of your personal statements.\n\nWhen the text box has a:\n\n• <c=white>White</c> border: read the sentence.\n\n• <c=#008000>Green</c> border: think about the ways you are significant to this person or entity. Bring to mind specific moments where your presence mattered.\n\n• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.\n\nPress any key when you’re ready.', 'purpose_instructions': 'In this task, you will read phrases about your life purposes.\n\nWhen the text box has a:\n\n• <c=white>White</c> border: read the sentence.\n\n• <c=#008000>Green</c> border: reflect on that life purpose and how you can work toward it.\n\n• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.\n\nPress any button when you’re ready.', 'AI_instructions': "In this task, you will read scenarios describing disruptions to your life’s purpose.\nTry to imagine these as realistically as you can.\n\n• <c=white>White</c> border: read the sentence.\n\n• <c=#008000>Green</c> border: read the scenario and try to reframe a new purpose despite the disruption.\n\n• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.\n\nPress any key when you're ready.", 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0207 	INFO 	Keyboard events cleared
+0.0206 	EXP 	text_2: autoDraw = True
+2.4314 	DEBUG 	Read excel file with openpyxl: ../prompts.xlsx
+2.4319 	EXP 	Imported ../prompts.xlsx as conditions, 1 conditions, 15 params
+2.4321 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'coherence_text_01': 'Moving to Montreal \n \n Studying Cogntive Science \n \n Graduating ', 'coherence_text_02': 'Moving to Paris \n \n Studying neuroscience \n \n Conducting research', 'coherence_text_03': 'Moving to LA \n \n Studying at the BCI \n \n Writing a review ', 'purpose_text_01': 'Becoming a scientist', 'purpose_text_02': 'Advancing research', 'purpose_text_03': 'Making science accessible', 'significance_text_01': 'I am significant to my parents. \n \n We are  connected. \n \n I play an important role in keeping us close-knit.', 'significance_text_02': 'I am  significant to my sister. \n \n We are  close. \n \n I am the only person with whom she talks. ', 'significance_text_03': 'I am significant to my dad. \n \n We  play together. \n \n We are close. ', 'AI_text_01': 'I want to be a good doctor, but AI now makes most medical decisions.', 'AI_text_02': 'I want to protect the planet, but AI’s resource use is harming the environment.', 'AI_text_03': 'I want to help people, but AI is replacing real human interaction.', 'training_text_coherence': 'Woke up this morning. \n \n Came to USC. \n \n Arrived at the BCI.', 'training_text_significance': 'Mother \n \n Father \n \n Friends', 'training_text_purpose': 'Helping researchers', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+2.4340 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4348 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4354 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4359 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4367 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4374 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4383 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4387 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4395 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4402 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4405 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4410 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4420 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4427 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4436 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4449 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4458 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4463 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4467 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4477 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4485 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4496 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4507 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4518 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4528 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4540 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4556 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4561 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+2.4564 	DEBUG 	Uploading Texture Font fontname to graphics card
+2.4590 	DEBUG 	Upload of Texture Font fontname complete
+2.5175 	DATA 	Keypress: right
+2.5208 	INFO 	Keyboard events cleared
+2.5207 	WARNING 	t of last frame was 209.86ms (=1/4)
+2.5207 	EXP 	text_2: autoDraw = False
+2.5207 	EXP 	textbox_2: autoDraw = True
+7.3649 	WARNING 	t of last frame was 26.82ms (=1/37)
+7.4316 	WARNING 	t of last frame was 26.92ms (=1/37)
+7.4984 	WARNING 	t of last frame was 26.63ms (=1/37)
+7.5652 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+13.0919 	DATA 	Keypress: right
+13.0933 	EXP 	textbox_2: autoDraw = False
+13.0933 	EXP 	rest_fixation: autoDraw = True
+16.7138 	DATA 	Keypress: escape
+16.9956 	EXP 	untitled: status = STOPPED
+17.0066 	EXP 	rest_fixation: autoDraw = False
+17.0085 	EXP 	untitled: status = STOPPED
+17.0106 	INFO 	saved data to '/Users/jacquessinger/Documents/Academics/Research/BCI Projects/MIL_PsychoPy_fMRI/training/data/594017_untitled_2026-01-20_14h58.21.522.csv'
+17.0111 	INFO 	saved data to /Users/jacquessinger/Documents/Academics/Research/BCI Projects/MIL_PsychoPy_fMRI/training/data/594017_untitled_2026-01-20_14h58.21.522.psydat
+17.0355 	DEBUG 	Saving data for untitled ExperimentHandler
+17.0367 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+17.0368 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+17.0368 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+17.0368 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+17.0368 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+17.0368 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+17.0368 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.

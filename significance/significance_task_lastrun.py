@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2024.2.4),
-    on Mon 12 Jan 09:07:01 2026
+    on Tue 20 Jan 14:56:03 2026
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -532,7 +532,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
          lineSpacing=1.0, speechPoint=None,
          padding=0.0, alignment='center',
          anchor='center', overflow='visible',
-         fillColor=None, borderColor=[1.0000, -1.0000, -1.0000],
+         fillColor=None, borderColor=[-1.0000, 1.0000, -1.0000],
          flipHoriz=False, flipVert=False, languageStyle='LTR',
          editable=False,
          name='task2_textbox',
@@ -976,7 +976,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         method='random', 
         extraInfo=expInfo, 
         originPath=-1, 
-        trialList=data.importConditions('/Users/jacquessinger/Documents/Academics/Research/BCI Projects/MIL_PsychoPy_fMRI/prompts.xlsx'), 
+        trialList=data.importConditions('../prompts.xlsx'), 
         seed=None, 
     )
     thisExp.addLoop(trials)  # add the loop to the experiment
@@ -1158,7 +1158,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         if isinstance(trials, data.TrialHandler2) and thisTrial.thisN != trials.thisTrial.thisN:
             continueRoutine = False
         reading.forceEnded = routineForceEnded = not continueRoutine
-        while continueRoutine and routineTimer.getTime() < 5.0:
+        while continueRoutine and routineTimer.getTime() < 10.0:
             # get current time
             t = routineTimer.getTime()
             tThisFlip = win.getFutureFlipTime(clock=routineTimer)
@@ -1190,7 +1190,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # if textbox_significance is stopping this frame...
             if textbox_significance.status == STARTED:
                 # is it time to stop? (based on global clock, using actual start)
-                if tThisFlipGlobal > textbox_significance.tStartRefresh + 5-frameTolerance:
+                if tThisFlipGlobal > textbox_significance.tStartRefresh + 10-frameTolerance:
                     # keep track of stop time/frame for later
                     textbox_significance.tStop = t  # not accounting for scr refresh
                     textbox_significance.tStopRefresh = tThisFlipGlobal  # on global time
@@ -1246,7 +1246,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         elif reading.forceEnded:
             routineTimer.reset()
         else:
-            routineTimer.addTime(-5.000000)
+            routineTimer.addTime(-10.000000)
         
         # --- Prepare to start Routine "task" ---
         # create an object to store info about Routine task
@@ -1406,7 +1406,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         if isinstance(trials, data.TrialHandler2) and thisTrial.thisN != trials.thisTrial.thisN:
             continueRoutine = False
         task_verification.forceEnded = routineForceEnded = not continueRoutine
-        while continueRoutine and routineTimer.getTime() < 5.0:
+        while continueRoutine and routineTimer.getTime() < 7.0:
             # get current time
             t = routineTimer.getTime()
             tThisFlip = win.getFutureFlipTime(clock=routineTimer)
@@ -1437,7 +1437,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # if task_verification_message is stopping this frame...
             if task_verification_message.status == STARTED:
                 # is it time to stop? (based on global clock, using actual start)
-                if tThisFlipGlobal > task_verification_message.tStartRefresh + 5-frameTolerance:
+                if tThisFlipGlobal > task_verification_message.tStartRefresh + 7-frameTolerance:
                     # keep track of stop time/frame for later
                     task_verification_message.tStop = t  # not accounting for scr refresh
                     task_verification_message.tStopRefresh = tThisFlipGlobal  # on global time
@@ -1493,7 +1493,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         elif task_verification.forceEnded:
             routineTimer.reset()
         else:
-            routineTimer.addTime(-5.000000)
+            routineTimer.addTime(-7.000000)
         
         # --- Prepare to start Routine "control" ---
         # create an object to store info about Routine control
@@ -1654,7 +1654,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         if isinstance(trials, data.TrialHandler2) and thisTrial.thisN != trials.thisTrial.thisN:
             continueRoutine = False
         control_verification.forceEnded = routineForceEnded = not continueRoutine
-        while continueRoutine and routineTimer.getTime() < 5.0:
+        while continueRoutine and routineTimer.getTime() < 7.0:
             # get current time
             t = routineTimer.getTime()
             tThisFlip = win.getFutureFlipTime(clock=routineTimer)
@@ -1685,7 +1685,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # if text is stopping this frame...
             if text.status == STARTED:
                 # is it time to stop? (based on global clock, using actual start)
-                if tThisFlipGlobal > text.tStartRefresh + 5-frameTolerance:
+                if tThisFlipGlobal > text.tStartRefresh + 7-frameTolerance:
                     # keep track of stop time/frame for later
                     text.tStop = t  # not accounting for scr refresh
                     text.tStopRefresh = tThisFlipGlobal  # on global time
@@ -1741,7 +1741,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         elif control_verification.forceEnded:
             routineTimer.reset()
         else:
-            routineTimer.addTime(-5.000000)
+            routineTimer.addTime(-7.000000)
         
         # --- Prepare to start Routine "rest" ---
         # create an object to store info about Routine rest
@@ -2148,7 +2148,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         if isinstance(trials, data.TrialHandler2) and thisTrial.thisN != trials.thisTrial.thisN:
             continueRoutine = False
         control_verification.forceEnded = routineForceEnded = not continueRoutine
-        while continueRoutine and routineTimer.getTime() < 5.0:
+        while continueRoutine and routineTimer.getTime() < 7.0:
             # get current time
             t = routineTimer.getTime()
             tThisFlip = win.getFutureFlipTime(clock=routineTimer)
@@ -2179,7 +2179,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # if text is stopping this frame...
             if text.status == STARTED:
                 # is it time to stop? (based on global clock, using actual start)
-                if tThisFlipGlobal > text.tStartRefresh + 5-frameTolerance:
+                if tThisFlipGlobal > text.tStartRefresh + 7-frameTolerance:
                     # keep track of stop time/frame for later
                     text.tStop = t  # not accounting for scr refresh
                     text.tStopRefresh = tThisFlipGlobal  # on global time
@@ -2235,7 +2235,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         elif control_verification.forceEnded:
             routineTimer.reset()
         else:
-            routineTimer.addTime(-5.000000)
+            routineTimer.addTime(-7.000000)
         
         # --- Prepare to start Routine "task2" ---
         # create an object to store info about Routine task2
@@ -2395,7 +2395,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         if isinstance(trials, data.TrialHandler2) and thisTrial.thisN != trials.thisTrial.thisN:
             continueRoutine = False
         task_verification.forceEnded = routineForceEnded = not continueRoutine
-        while continueRoutine and routineTimer.getTime() < 5.0:
+        while continueRoutine and routineTimer.getTime() < 7.0:
             # get current time
             t = routineTimer.getTime()
             tThisFlip = win.getFutureFlipTime(clock=routineTimer)
@@ -2426,7 +2426,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # if task_verification_message is stopping this frame...
             if task_verification_message.status == STARTED:
                 # is it time to stop? (based on global clock, using actual start)
-                if tThisFlipGlobal > task_verification_message.tStartRefresh + 5-frameTolerance:
+                if tThisFlipGlobal > task_verification_message.tStartRefresh + 7-frameTolerance:
                     # keep track of stop time/frame for later
                     task_verification_message.tStop = t  # not accounting for scr refresh
                     task_verification_message.tStopRefresh = tThisFlipGlobal  # on global time
@@ -2482,7 +2482,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         elif task_verification.forceEnded:
             routineTimer.reset()
         else:
-            routineTimer.addTime(-5.000000)
+            routineTimer.addTime(-7.000000)
         
         # --- Prepare to start Routine "rest" ---
         # create an object to store info about Routine rest
@@ -2642,7 +2642,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         if isinstance(trials, data.TrialHandler2) and thisTrial.thisN != trials.thisTrial.thisN:
             continueRoutine = False
         reading3.forceEnded = routineForceEnded = not continueRoutine
-        while continueRoutine and routineTimer.getTime() < 5.0:
+        while continueRoutine and routineTimer.getTime() < 10.0:
             # get current time
             t = routineTimer.getTime()
             tThisFlip = win.getFutureFlipTime(clock=routineTimer)
@@ -2673,7 +2673,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # if reading3_textbox is stopping this frame...
             if reading3_textbox.status == STARTED:
                 # is it time to stop? (based on global clock, using actual start)
-                if tThisFlipGlobal > reading3_textbox.tStartRefresh + 5-frameTolerance:
+                if tThisFlipGlobal > reading3_textbox.tStartRefresh + 10-frameTolerance:
                     # keep track of stop time/frame for later
                     reading3_textbox.tStop = t  # not accounting for scr refresh
                     reading3_textbox.tStopRefresh = tThisFlipGlobal  # on global time
@@ -2729,7 +2729,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         elif reading3.forceEnded:
             routineTimer.reset()
         else:
-            routineTimer.addTime(-5.000000)
+            routineTimer.addTime(-10.000000)
         
         # --- Prepare to start Routine "task3" ---
         # create an object to store info about Routine task3
@@ -2889,7 +2889,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         if isinstance(trials, data.TrialHandler2) and thisTrial.thisN != trials.thisTrial.thisN:
             continueRoutine = False
         task_verification.forceEnded = routineForceEnded = not continueRoutine
-        while continueRoutine and routineTimer.getTime() < 5.0:
+        while continueRoutine and routineTimer.getTime() < 7.0:
             # get current time
             t = routineTimer.getTime()
             tThisFlip = win.getFutureFlipTime(clock=routineTimer)
@@ -2920,7 +2920,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # if task_verification_message is stopping this frame...
             if task_verification_message.status == STARTED:
                 # is it time to stop? (based on global clock, using actual start)
-                if tThisFlipGlobal > task_verification_message.tStartRefresh + 5-frameTolerance:
+                if tThisFlipGlobal > task_verification_message.tStartRefresh + 7-frameTolerance:
                     # keep track of stop time/frame for later
                     task_verification_message.tStop = t  # not accounting for scr refresh
                     task_verification_message.tStopRefresh = tThisFlipGlobal  # on global time
@@ -2976,7 +2976,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         elif task_verification.forceEnded:
             routineTimer.reset()
         else:
-            routineTimer.addTime(-5.000000)
+            routineTimer.addTime(-7.000000)
         
         # --- Prepare to start Routine "control3" ---
         # create an object to store info about Routine control3
@@ -3136,7 +3136,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         if isinstance(trials, data.TrialHandler2) and thisTrial.thisN != trials.thisTrial.thisN:
             continueRoutine = False
         control_verification.forceEnded = routineForceEnded = not continueRoutine
-        while continueRoutine and routineTimer.getTime() < 5.0:
+        while continueRoutine and routineTimer.getTime() < 7.0:
             # get current time
             t = routineTimer.getTime()
             tThisFlip = win.getFutureFlipTime(clock=routineTimer)
@@ -3167,7 +3167,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             # if text is stopping this frame...
             if text.status == STARTED:
                 # is it time to stop? (based on global clock, using actual start)
-                if tThisFlipGlobal > text.tStartRefresh + 5-frameTolerance:
+                if tThisFlipGlobal > text.tStartRefresh + 7-frameTolerance:
                     # keep track of stop time/frame for later
                     text.tStop = t  # not accounting for scr refresh
                     text.tStopRefresh = tThisFlipGlobal  # on global time
@@ -3223,7 +3223,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         elif control_verification.forceEnded:
             routineTimer.reset()
         else:
-            routineTimer.addTime(-5.000000)
+            routineTimer.addTime(-7.000000)
         thisExp.nextEntry()
         
     # completed 1.0 repeats of 'trials'
