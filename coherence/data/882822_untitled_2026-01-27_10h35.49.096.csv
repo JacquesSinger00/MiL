@@ -1,0 +1,75 @@
+﻿coherence_instructions,significance_instructions,purpose_instructions,AI_instructions,thisN,thisTrialN,thisRepN,key_resp.keys,key_resp.rt,key_resp.duration,key_resp_2.keys,key_resp_2.rt,key_resp_2.duration,coherence_text_01,coherence_text_02,coherence_text_03,purpose_text_01,purpose_text_02,purpose_text_03,significance_text_01,significance_text_02,significance_text_03,AI_text_01,AI_text_02,AI_text_03,training_text_coherence,training_text_significance,training_text_purpose,trials_2.thisRepN,trials_2.thisTrialN,trials_2.thisN,trials_2.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,trial.started,key_resp.started,textbox_2.started,trial.stopped,trials_2.key_resp.keys,trials_2.key_resp.rt,trials_2.key_resp.duration,sync_fMRI.started,key_resp_2.started,sync_fMRI.stopped,trials_2.key_resp_2.keys,trials_2.key_resp_2.rt,trials_2.key_resp_2.duration,rest.started,rest_fixation.started,rest.stopped,reading.started,textbox_coherence.started,reading.stopped,task.started,textbox_task.started,textbox_task.stopped,task.stopped,task_verification.started,task_verification_message.started,task_verification_message.stopped,task_verification.stopped,control.started,textbox.started,textbox.stopped,control.stopped,control_verification.started,text.started,text.stopped,control_verification.stopped,rest_fixation.stopped,reading2.started,reading2_textbox.started,reading2_textbox.stopped,reading2.stopped,control2.started,control2_textbox.started,control2_textbox.stopped,control2.stopped,task2.started,task2_textbox.started,task2_textbox.stopped,task2.stopped,reading3.started,reading3_textbox.started,reading3_textbox.stopped,reading3.stopped,task3.started,task3_textbox.started,task3_textbox.stopped,task3.stopped,control3.started,control3_textbox.started,control3_textbox.stopped,control3.stopped,end.started,end_message.started,end_message.stopped,end.stopped,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+"In this task, you’ll see phrases about events in your life.
+
+When the text box has a:
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: reflect on how these events fit together to form your life story.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you're ready.","In this task, you will read some of your personal statements.
+
+When the text box has a:
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: think about the ways you are significant to this person or entity. Bring to mind specific moments where your presence mattered.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you’re ready.","In this task, you will read phrases about your life purposes.
+
+When the text box has a:
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: reflect on that life purpose and how you can work toward it.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any button when you’re ready.","In this task, you will read scenarios describing disruptions to your life’s purpose.
+Try to imagine these as realistically as you can.
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: read the scenario and try to reframe a new purpose despite the disruption.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you're ready.",0,0,0,right,1.2927635409942013,None,5,5.798369373995229,None,,,,,,,,,,,,,,,,0,0,0,0,,,,,0.048022374998254236,,0.042442707999725826,0.048022374998254236,0.048022374998254236,1.461830041000212,right,1.2927635409942013,None,1.4618811250038561,1.5009642910008552,7.301061915997707,5,5.798369373995229,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,882822,001,2026-01-27_10h35.49.096,untitled,2024.2.4,None,2026-01-27 10h36.16.238880 -0800,
+,,,,0,0,0,,,,,,,"Moving to Montreal 
+ 
+ Studying Cogntive Science 
+ 
+ Graduating ","Moving to Paris 
+ 
+ Studying neuroscience 
+ 
+ Conducting research","Moving to LA 
+ 
+ Studying at the BCI 
+ 
+ Writing a review ",Becoming a scientist,Advancing research,Making science accessible,"I am significant to my parents. 
+ 
+ We are  connected. 
+ 
+ I play an important role in keeping us close-knit.","I am  significant to my sister. 
+ 
+ We are  close. 
+ 
+ I am the only person with whom she talks. ","I am significant to my dad. 
+ 
+ We  play together. 
+ 
+ We are close. ","I want to be a good doctor, but AI now makes most medical decisions.","I want to protect the planet, but AI’s resource use is harming the environment.","I want to help people, but AI is replacing real human interaction.","Woke up this morning. 
+ 
+ Came to USC. 
+ 
+ Arrived at the BCI.","Mother 
+ 
+ Father 
+ 
+ Friends",Helping researchers,,,,,0,0,0,0,7.320093750000524,,,,,,,,,,,,,,,235.2764410000018,235.2905307500041,247.27689745800308,19.30621520800196,19.32289312499779,29.30588983299822,29.306014916001004,29.314855707998504,49.30487008300406,49.30103224999766,201.28683854100382,201.29051795800478,208.2852147080048,208.27597283299838,56.29048154100019,56.29835220800305,76.2875947499997,76.28445716600254,228.28733354100405,228.2908812500027,235.2856805410047,235.27641770800255,247.28596862500126,95.28553962500155,95.2990785830043,105.28804608299833,105.28505008300272,105.2851619159992,105.29951491599786,125.28830083300272,125.28537104099814,132.2858722910023,132.29213533300208,152.28963716600265,152.28590337499918,171.2752516660039,171.30219879100332,181.30068112500157,181.2926865000045,181.29280395800015,181.30068112500157,201.29051795800478,201.2868189159999,208.2761810410011,208.29317874999833,228.2908812500027,228.28731312500167,,,,,882822,001,2026-01-27_10h35.49.096,untitled,2024.2.4,None,2026-01-27 10h36.16.238880 -0800,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,247.27699358300015,247.29194245800318,252.28616262500145,252.27738266599772,882822,001,2026-01-27_10h35.49.096,untitled,2024.2.4,None,2026-01-27 10h36.16.238880 -0800,

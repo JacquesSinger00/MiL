@@ -1,0 +1,75 @@
+﻿coherence_instructions,significance_instructions,purpose_instructions,AI_instructions,thisN,thisTrialN,thisRepN,key_resp.keys,key_resp.rt,key_resp.duration,coherence_text_01,coherence_text_02,coherence_text_03,purpose_text_01,purpose_text_02,purpose_text_03,significance_text_01,significance_text_02,significance_text_03,AI_text_01,AI_text_02,AI_text_03,training_text_coherence,training_text_significance,training_text_purpose,trials_2.thisRepN,trials_2.thisTrialN,trials_2.thisN,trials_2.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,trial.started,key_resp.started,instruct.started,trial.stopped,trials_2.key_resp.keys,trials_2.key_resp.rt,trials_2.key_resp.duration,sync_fMRI.started,key_resp_2.started,sync_fMRI.stopped,key_resp_2.keys,key_resp_2.rt,key_resp_2.duration,rest.started,rest_fixation.started,rest.stopped,reading.started,purp_textbox.started,reading.stopped,task.started,textbox_task.started,textbox_task.stopped,task.stopped,task_verification.started,task_verification_message.started,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+"In this task, you’ll see phrases about events in your life.
+
+When the text box has a:
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: reflect on how these events fit together to form your life story.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you're ready.","In this task, you will read some of your personal statements.
+
+When the text box has a:
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: think about the ways you are significant to this person or entity. Bring to mind specific moments where your presence mattered.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you’re ready.","In this task, you will read phrases about your life purposes.
+
+When the text box has a:
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: reflect on that life purpose and how you can work toward it.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any button when you’re ready.","In this task, you will read scenarios describing disruptions to your life’s purpose.
+Try to imagine these as realistically as you can.
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: read the scenario and try to reframe a new purpose despite the disruption.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you're ready.",0,0,0,right,5.692392373995972,None,,,,,,,,,,,,,,,,0,0,0,0,,,,,0.04793445800169138,,0.016686292001395486,0.04793445800169138,0.04793445800169138,5.859680667002976,right,5.692392373995972,None,,,,,,,,,,,,,,,,,,,946421,001,2026-01-27_10h44.30.374,untitled,2024.2.4,None,2026-01-27 10h44.37.424451 -0800,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5.859755833000236,5.902630958000373,6.950511750001169,5,1.0366496250062482,None,,,,,,,,,,,,,946421,001,2026-01-27_10h44.30.374,untitled,2024.2.4,None,2026-01-27 10h44.37.424451 -0800,
+,,,,0,0,0,,,,"Moving to Montreal 
+ 
+ Studying Cogntive Science 
+ 
+ Graduating ","Moving to Paris 
+ 
+ Studying neuroscience 
+ 
+ Conducting research","Moving to LA 
+ 
+ Studying at the BCI 
+ 
+ Writing a review ",Becoming a scientist,Advancing research,Making science accessible,"I am significant to my parents. 
+ 
+ We are  connected. 
+ 
+ I play an important role in keeping us close-knit.","I am  significant to my sister. 
+ 
+ We are  close. 
+ 
+ I am the only person with whom she talks. ","I am significant to my dad. 
+ 
+ We  play together. 
+ 
+ We are close. ","I want to be a good doctor, but AI now makes most medical decisions.","I want to protect the planet, but AI’s resource use is harming the environment.","I want to help people, but AI is replacing real human interaction.","Woke up this morning. 
+ 
+ Came to USC. 
+ 
+ Arrived at the BCI.","Mother 
+ 
+ Father 
+ 
+ Friends",Helping researchers,,,,,0,0,0,0,6.97080483299942,,,,,,,,,,,,,,,6.9583573330019135,6.97080483299942,18.95509754199884,18.955337375002273,18.969275082999957,28.95567595800094,28.955812332998903,28.964138791998266,,48.94986500000232,48.9499395419989,,,,,,,,,

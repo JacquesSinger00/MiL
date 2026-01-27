@@ -1,0 +1,93 @@
+﻿coherence_instructions,significance_instructions,purpose_instructions,AI_instructions,thisN,thisTrialN,thisRepN,key_resp.keys,key_resp.rt,key_resp.duration,instructions.text,coherence_text_01,coherence_text_02,coherence_text_03,purpose_text_01,purpose_text_02,purpose_text_03,significance_text_01,significance_text_02,significance_text_03,AI_text_01,AI_text_02,AI_text_03,training_text_coherence,training_text_significance,training_text_purpose,in_instructions.thisRepN,in_instructions.thisTrialN,in_instructions.thisN,in_instructions.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,trial.started,key_resp.started,instructions.started,trial.stopped,in_instructions.key_resp.keys,in_instructions.key_resp.rt,in_instructions.key_resp.duration,in_instructions.instructions.text,sync_fMRI.started,key_resp_2.started,sync_fMRI.stopped,key_resp_2.keys,key_resp_2.rt,key_resp_2.duration,rest.started,rest_fixation.started,rest.stopped,reading.started,textbox_coherence.started,reading.stopped,task.started,textbox_task.started,textbox_task.stopped,task.stopped,task_verification.started,task_verification_message.started,task_verification_message.stopped,task_verification.stopped,control.started,textbox.started,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+"In this task, you’ll see phrases about events in your life.
+
+When the text box has a:
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: reflect on how these events fit together to form your life story.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you're ready.","In this task, you will read some of your personal statements.
+
+When the text box has a:
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: think about the ways you are significant to this person or entity. Bring to mind specific moments where your presence mattered.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you’re ready.","In this task, you will read phrases about your life purposes.
+
+When the text box has a:
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: reflect on that life purpose and how you can work toward it.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any button when you’re ready.","In this task, you will read scenarios describing disruptions to your life’s purpose.
+Try to imagine these as realistically as you can.
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: read the scenario and try to reframe a new purpose despite the disruption.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you're ready.",0,0,0,right,15.137614833001862,None,"In this task, you will read scenarios describing disruptions to your life’s purpose.
+Try to imagine these as realistically as you can.
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: read the scenario and try to reframe a new purpose despite the disruption.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you're ready.",,,,,,,,,,,,,,,,0,0,0,0,,,,,0.04856920899328543,,0.016342167000402696,0.04856920899328543,0.04856920899328543,15.347433249997266,right,15.137614833001862,None,"In this task, you will read scenarios describing disruptions to your life’s purpose.
+Try to imagine these as realistically as you can.
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: read the scenario and try to reframe a new purpose despite the disruption.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you're ready.",,,,,,,,,,,,,,,,,,,,,,,055642,001,2026-01-27_10h07.11.037,untitled,2024.2.4,117.71722660107673,2026-01-27 10h07.17.568614 -0800,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,15.347509666993574,15.352383624995127,38.761332541995216,5,23.40025441600301,None,,,,,,,,,,,,,,,,,055642,001,2026-01-27_10h07.11.037,untitled,2024.2.4,117.71722660107673,2026-01-27 10h07.17.568614 -0800,
+,,,,0,0,0,,,,,"Moving to Montreal 
+ 
+ Studying Cogntive Science 
+ 
+ Graduating ","Moving to Paris 
+ 
+ Studying neuroscience 
+ 
+ Conducting research","Moving to LA 
+ 
+ Studying at the BCI 
+ 
+ Writing a review ",Becoming a scientist,Advancing research,Making science accessible,"I am significant to my parents. 
+ 
+ We are  connected. 
+ 
+ I play an important role in keeping us close-knit.","I am  significant to my sister. 
+ 
+ We are  close. 
+ 
+ I am the only person with whom she talks. ","I am significant to my dad. 
+ 
+ We  play together. 
+ 
+ We are close. ","I want to be a good doctor, but AI now makes most medical decisions.","I want to protect the planet, but AI’s resource use is harming the environment.","I want to help people, but AI is replacing real human interaction.","Woke up this morning. 
+ 
+ Came to USC. 
+ 
+ Arrived at the BCI.","Mother 
+ 
+ Father 
+ 
+ Friends",Helping researchers,,,,,0,0,0,0,38.789708791999146,,,,,,,,,,,,,,,,38.76680712499365,38.789708791999146,50.7733722089979,50.77377991699905,50.79253233399504,60.76879816699511,60.76899258399499,60.77583299999969,80.76707504200022,80.76181316699513,80.76183158399363,80.76707504200022,87.76485883399437,87.75689399999828,87.75714845899347,87.76485883399437,,,,,,,,

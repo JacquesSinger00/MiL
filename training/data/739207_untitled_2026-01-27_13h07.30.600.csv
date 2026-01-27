@@ -1,0 +1,73 @@
+﻿coherence_instructions,significance_instructions,purpose_instructions,AI_instructions,thisN,thisTrialN,thisRepN,coherence_text_01,coherence_text_02,coherence_text_03,purpose_text_01,purpose_text_02,purpose_text_03,significance_text_01,significance_text_02,significance_text_03,AI_text_01,AI_text_02,AI_text_03,training_text_coherence,training_text_significance,training_text_purpose,trials_2.thisRepN,trials_2.thisTrialN,trials_2.thisN,trials_2.thisIndex,key_resp_5.keys,key_resp_5.rt,key_resp_5.duration,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,key_resp.keys,key_resp.rt,key_resp.duration,key_resp_verif_1.keys,key_resp_verif_1.rt,key_resp_verif_1.duration,key_resp_6.keys,key_resp_6.rt,key_resp_6.duration,key_resp_3.keys,key_resp_3.rt,key_resp_3.duration,thisRow.t,notes,Welcome.started,text_2.started,key_resp_5.started,Welcome.stopped,trials_2.key_resp_5.keys,trials_2.key_resp_5.rt,trials_2.key_resp_5.duration,coherence_ins.started,key_resp.started,textbox_2.started,coherence_ins.stopped,trials.key_resp.keys,trials.key_resp.rt,trials.key_resp.duration,rest.started,rest_fixation.started,rest_fixation.stopped,rest.stopped,coherence_reading.started,textbox_coherence.started,coherence_reading.stopped,coherence_task.started,textbox_task.started,coherence_task.stopped,task_verification.started,task_verification_message.started,key_resp_verif_1.started,task_verification_message.stopped,key_resp_verif_1.stopped,task_verification.stopped,trials.key_resp_verif_1.keys,trials.key_resp_verif_1.rt,trials.key_resp_verif_1.duration,coherence_control.started,textbox.started,textbox.stopped,coherence_control.stopped,control_verification.started,text.started,key_resp_6.started,text.stopped,key_resp_6.stopped,control_verification.stopped,trials.key_resp_6.keys,trials.key_resp_6.rt,trials.key_resp_6.duration,instructions_significance.started,key_resp_3.started,textbox_3.started,instructions_significance.stopped,trials.key_resp_3.keys,trials.key_resp_3.rt,trials.key_resp_3.duration,significance_reading.started,reading2_textbox.started,reading2_textbox.stopped,significance_reading.stopped,significance_control.started,control2_textbox.started,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+"In this task, you’ll see phrases about events in your life.
+
+When the text box has a:
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: reflect on how these events fit together to form your life story.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you're ready.","In this task, you will read some of your personal statements.
+
+When the text box has a:
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: think about the ways you are significant to this person or entity. Bring to mind specific moments where your presence mattered.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you’re ready.","In this task, you will read phrases about your life purposes.
+
+When the text box has a:
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: reflect on that life purpose and how you can work toward it.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any button when you’re ready.","In this task, you will read scenarios describing disruptions to your life’s purpose.
+Try to imagine these as realistically as you can.
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: read the scenario and try to reframe a new purpose despite the disruption.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you're ready.",0,0,0,"Moving to Montreal 
+ 
+ Studying Cogntive Science 
+ 
+ Graduating ","Moving to Paris 
+ 
+ Studying neuroscience 
+ 
+ Conducting research","Moving to LA 
+ 
+ Studying at the BCI 
+ 
+ Writing a review ",Becoming a scientist,Advancing research,Making science accessible,"I am significant to my parents. 
+ 
+ We are  connected. 
+ 
+ I play an important role in keeping us close-knit.","I am  significant to my sister. 
+ 
+ We are  close. 
+ 
+ I am the only person with whom she talks. ","I am significant to my dad. 
+ 
+ We  play together. 
+ 
+ We are close. ","I want to be a good doctor, but AI now makes most medical decisions.","I want to protect the planet, but AI’s resource use is harming the environment.","I want to help people, but AI is replacing real human interaction.","Woke up this morning. 
+ 
+ Came to USC. 
+ 
+ Arrived at the BCI.","Mother 
+ 
+ Father 
+ 
+ Friends",Helping researchers,0,0,0,0,,,,0,0,0,0,,,,,,,,,,,,,1.4444451250019483,,0.029297958004463,0.03494883300299989,0.03494883300299989,1.3583631250003236,right,1.1966070829948876,None,1.3635884169998462,1.4444451250019483,1.4444451250019483,1.976837667003565,right,0.5254399170007673,None,77.96060266700079,77.97517470800085,89.96910587500315,89.96076004199858,13.976072333003685,13.99277804200392,23.986506250003004,23.986672083003214,23.993025042000227,43.97715045800578,43.97717562500475,43.98485320799955,43.98485320799955,50.97708904200408,50.97708904200408,50.970379124999454,1,3.613693334002164,0.10393970799486851,50.97058924999874,50.97708904200408,70.97547854200093,70.97117258300568,70.97119345800456,70.97547854200093,70.97547854200093,77.96897704200092,77.96897704200092,77.96054270800232,2,1.9181188330039731,0.24807016699924134,89.96094458299922,89.98015899999882,89.98015899999882,94.24626345800061,right,4.257174667000072,None,94.24640400000499,94.25902179200057,104.25286649999907,104.24492229200405,104.24503670800186,104.25286649999907,,,,,,,,

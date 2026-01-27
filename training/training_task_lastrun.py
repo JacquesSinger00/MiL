@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2024.2.4),
-    on Tue 20 Jan 14:57:55 2026
+    on Tue 27 Jan 13:07:06 2026
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -1466,7 +1466,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             continueRoutine = True
             # update component parameters for each repeat
             # Run 'Begin Routine' code from code
-            f_color = 'white' 
+            color_text = 'white'   # or [1, 1, 1] if you prefer rgb
             # create starting attributes for key_resp_verif_1
             key_resp_verif_1.keys = []
             key_resp_verif_1.rt = []
@@ -1522,12 +1522,12 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 # if task_verification_message is active this frame...
                 if task_verification_message.status == STARTED:
                     # update params
-                    task_verification_message.setColor(f_color, colorSpace='rgb', log=False)
+                    task_verification_message.setColor(color_text, colorSpace='rgb', log=False)
                 
                 # if task_verification_message is stopping this frame...
                 if task_verification_message.status == STARTED:
                     # is it time to stop? (based on global clock, using actual start)
-                    if tThisFlipGlobal > task_verification_message.tStartRefresh + 5-frameTolerance:
+                    if tThisFlipGlobal > task_verification_message.tStartRefresh + 7-frameTolerance:
                         # keep track of stop time/frame for later
                         task_verification_message.tStop = t  # not accounting for scr refresh
                         task_verification_message.tStopRefresh = tThisFlipGlobal  # on global time
@@ -1538,12 +1538,12 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         task_verification_message.status = FINISHED
                         task_verification_message.setAutoDraw(False)
                 # Run 'Each Frame' code from code
-                keys = event.getKeys()
+                keys = event.getKeys(keyList=['1', '2'])
                 
                 if '1' in keys:
-                    f_color = 'green'
+                    color_text = 'green'
                 elif '2' in keys:
-                    f_color = 'red'
+                    color_text = 'red'
                 
                 # *key_resp_verif_1* updates
                 waitOnFlip = False
@@ -1777,7 +1777,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             key_resp_6.rt = []
             _key_resp_6_allKeys = []
             # Run 'Begin Routine' code from code_2
-            f_color = 'white' 
+            color_text = 'white' 
             # store start times for control_verification
             control_verification.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
             control_verification.tStart = globalClock.getTime(format='float')
@@ -1829,12 +1829,12 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 # if text is active this frame...
                 if text.status == STARTED:
                     # update params
-                    text.setColor(f_color, colorSpace='rgb', log=False)
+                    text.setColor(color_text, colorSpace='rgb', log=False)
                 
                 # if text is stopping this frame...
                 if text.status == STARTED:
                     # is it time to stop? (based on global clock, using actual start)
-                    if tThisFlipGlobal > text.tStartRefresh + 5-frameTolerance:
+                    if tThisFlipGlobal > text.tStartRefresh + 7-frameTolerance:
                         # keep track of stop time/frame for later
                         text.tStop = t  # not accounting for scr refresh
                         text.tStopRefresh = tThisFlipGlobal  # on global time
@@ -1885,12 +1885,12 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         key_resp_6.rt = _key_resp_6_allKeys[-1].rt
                         key_resp_6.duration = _key_resp_6_allKeys[-1].duration
                 # Run 'Each Frame' code from code_2
-                keys = event.getKeys()
+                keys = event.getKeys(keyList=['1', '2'])
                 
                 if '1' in keys:
-                    f_color = 'green'
+                    color_text = 'green'
                 elif '2' in keys:
-                    f_color = 'red'
+                    color_text = 'red'
                 
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
@@ -2475,7 +2475,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             key_resp_6.rt = []
             _key_resp_6_allKeys = []
             # Run 'Begin Routine' code from code_2
-            f_color = 'white' 
+            color_text = 'white' 
             # store start times for control_verification
             control_verification.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
             control_verification.tStart = globalClock.getTime(format='float')
@@ -2527,12 +2527,12 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 # if text is active this frame...
                 if text.status == STARTED:
                     # update params
-                    text.setColor(f_color, colorSpace='rgb', log=False)
+                    text.setColor(color_text, colorSpace='rgb', log=False)
                 
                 # if text is stopping this frame...
                 if text.status == STARTED:
                     # is it time to stop? (based on global clock, using actual start)
-                    if tThisFlipGlobal > text.tStartRefresh + 5-frameTolerance:
+                    if tThisFlipGlobal > text.tStartRefresh + 7-frameTolerance:
                         # keep track of stop time/frame for later
                         text.tStop = t  # not accounting for scr refresh
                         text.tStopRefresh = tThisFlipGlobal  # on global time
@@ -2583,12 +2583,12 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         key_resp_6.rt = _key_resp_6_allKeys[-1].rt
                         key_resp_6.duration = _key_resp_6_allKeys[-1].duration
                 # Run 'Each Frame' code from code_2
-                keys = event.getKeys()
+                keys = event.getKeys(keyList=['1', '2'])
                 
                 if '1' in keys:
-                    f_color = 'green'
+                    color_text = 'green'
                 elif '2' in keys:
-                    f_color = 'red'
+                    color_text = 'red'
                 
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):
@@ -2778,7 +2778,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             continueRoutine = True
             # update component parameters for each repeat
             # Run 'Begin Routine' code from code
-            f_color = 'white' 
+            color_text = 'white'   # or [1, 1, 1] if you prefer rgb
             # create starting attributes for key_resp_verif_1
             key_resp_verif_1.keys = []
             key_resp_verif_1.rt = []
@@ -2834,12 +2834,12 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 # if task_verification_message is active this frame...
                 if task_verification_message.status == STARTED:
                     # update params
-                    task_verification_message.setColor(f_color, colorSpace='rgb', log=False)
+                    task_verification_message.setColor(color_text, colorSpace='rgb', log=False)
                 
                 # if task_verification_message is stopping this frame...
                 if task_verification_message.status == STARTED:
                     # is it time to stop? (based on global clock, using actual start)
-                    if tThisFlipGlobal > task_verification_message.tStartRefresh + 5-frameTolerance:
+                    if tThisFlipGlobal > task_verification_message.tStartRefresh + 7-frameTolerance:
                         # keep track of stop time/frame for later
                         task_verification_message.tStop = t  # not accounting for scr refresh
                         task_verification_message.tStopRefresh = tThisFlipGlobal  # on global time
@@ -2850,12 +2850,12 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         task_verification_message.status = FINISHED
                         task_verification_message.setAutoDraw(False)
                 # Run 'Each Frame' code from code
-                keys = event.getKeys()
+                keys = event.getKeys(keyList=['1', '2'])
                 
                 if '1' in keys:
-                    f_color = 'green'
+                    color_text = 'green'
                 elif '2' in keys:
-                    f_color = 'red'
+                    color_text = 'red'
                 
                 # *key_resp_verif_1* updates
                 waitOnFlip = False
@@ -3476,7 +3476,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             continueRoutine = True
             # update component parameters for each repeat
             # Run 'Begin Routine' code from code
-            f_color = 'white' 
+            color_text = 'white'   # or [1, 1, 1] if you prefer rgb
             # create starting attributes for key_resp_verif_1
             key_resp_verif_1.keys = []
             key_resp_verif_1.rt = []
@@ -3532,12 +3532,12 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 # if task_verification_message is active this frame...
                 if task_verification_message.status == STARTED:
                     # update params
-                    task_verification_message.setColor(f_color, colorSpace='rgb', log=False)
+                    task_verification_message.setColor(color_text, colorSpace='rgb', log=False)
                 
                 # if task_verification_message is stopping this frame...
                 if task_verification_message.status == STARTED:
                     # is it time to stop? (based on global clock, using actual start)
-                    if tThisFlipGlobal > task_verification_message.tStartRefresh + 5-frameTolerance:
+                    if tThisFlipGlobal > task_verification_message.tStartRefresh + 7-frameTolerance:
                         # keep track of stop time/frame for later
                         task_verification_message.tStop = t  # not accounting for scr refresh
                         task_verification_message.tStopRefresh = tThisFlipGlobal  # on global time
@@ -3548,12 +3548,12 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         task_verification_message.status = FINISHED
                         task_verification_message.setAutoDraw(False)
                 # Run 'Each Frame' code from code
-                keys = event.getKeys()
+                keys = event.getKeys(keyList=['1', '2'])
                 
                 if '1' in keys:
-                    f_color = 'green'
+                    color_text = 'green'
                 elif '2' in keys:
-                    f_color = 'red'
+                    color_text = 'red'
                 
                 # *key_resp_verif_1* updates
                 waitOnFlip = False
@@ -3787,7 +3787,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
             key_resp_6.rt = []
             _key_resp_6_allKeys = []
             # Run 'Begin Routine' code from code_2
-            f_color = 'white' 
+            color_text = 'white' 
             # store start times for control_verification
             control_verification.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
             control_verification.tStart = globalClock.getTime(format='float')
@@ -3839,12 +3839,12 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                 # if text is active this frame...
                 if text.status == STARTED:
                     # update params
-                    text.setColor(f_color, colorSpace='rgb', log=False)
+                    text.setColor(color_text, colorSpace='rgb', log=False)
                 
                 # if text is stopping this frame...
                 if text.status == STARTED:
                     # is it time to stop? (based on global clock, using actual start)
-                    if tThisFlipGlobal > text.tStartRefresh + 5-frameTolerance:
+                    if tThisFlipGlobal > text.tStartRefresh + 7-frameTolerance:
                         # keep track of stop time/frame for later
                         text.tStop = t  # not accounting for scr refresh
                         text.tStopRefresh = tThisFlipGlobal  # on global time
@@ -3895,12 +3895,12 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
                         key_resp_6.rt = _key_resp_6_allKeys[-1].rt
                         key_resp_6.duration = _key_resp_6_allKeys[-1].duration
                 # Run 'Each Frame' code from code_2
-                keys = event.getKeys()
+                keys = event.getKeys(keyList=['1', '2'])
                 
                 if '1' in keys:
-                    f_color = 'green'
+                    color_text = 'green'
                 elif '2' in keys:
-                    f_color = 'red'
+                    color_text = 'red'
                 
                 # check for quit (typically the Esc key)
                 if defaultKeyboard.getKeys(keyList=["escape"]):

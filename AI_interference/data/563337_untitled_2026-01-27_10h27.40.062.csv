@@ -1,0 +1,94 @@
+﻿coherence_instructions,significance_instructions,purpose_instructions,AI_instructions,thisN,thisTrialN,thisRepN,key_resp.keys,key_resp.rt,key_resp.duration,instructions.text,coherence_text_01,coherence_text_02,coherence_text_03,purpose_text_01,purpose_text_02,purpose_text_03,significance_text_01,significance_text_02,significance_text_03,AI_text_01,AI_text_02,AI_text_03,training_text_coherence,training_text_significance,training_text_purpose,in_instructions.thisRepN,in_instructions.thisTrialN,in_instructions.thisN,in_instructions.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,thisRow.t,notes,trial.started,key_resp.started,instructions.started,trial.stopped,in_instructions.key_resp.keys,in_instructions.key_resp.rt,in_instructions.key_resp.duration,in_instructions.instructions.text,sync_fMRI.started,key_resp_2.started,sync_fMRI.stopped,key_resp_2.keys,key_resp_2.rt,key_resp_2.duration,rest.started,rest_fixation.started,rest.stopped,reading.started,textbox_coherence.started,reading.stopped,task.started,textbox_task.started,textbox_task.stopped,task.stopped,task_verification.started,task_verification_message.started,task_verification_message.stopped,task_verification.stopped,control.started,textbox.started,textbox.stopped,control.stopped,control_verification.started,text.started,text.stopped,control_verification.stopped,rest_fixation.stopped,reading2.started,reading2_textbox.started,reading2_textbox.stopped,reading2.stopped,task2.started,task2_textbox.started,task2_textbox.stopped,task2.stopped,control2.started,control2_textbox.started,control2_textbox.stopped,control2.stopped,reading3.started,reading3_textbox.started,reading3_textbox.stopped,reading3.stopped,task3.started,task3_textbox.started,task3_textbox.stopped,task3.stopped,control3.started,control3_textbox.started,control3_textbox.stopped,control3.stopped,end.started,end_message.started,end_message.stopped,end.stopped,participant,session,date,expName,psychopyVersion,frameRate,expStart,
+"In this task, you’ll see phrases about events in your life.
+
+When the text box has a:
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: reflect on how these events fit together to form your life story.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you're ready.","In this task, you will read some of your personal statements.
+
+When the text box has a:
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: think about the ways you are significant to this person or entity. Bring to mind specific moments where your presence mattered.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you’re ready.","In this task, you will read phrases about your life purposes.
+
+When the text box has a:
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: reflect on that life purpose and how you can work toward it.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any button when you’re ready.","In this task, you will read scenarios describing disruptions to your life’s purpose.
+Try to imagine these as realistically as you can.
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: read the scenario and try to reframe a new purpose despite the disruption.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you're ready.",0,0,0,right,1.0398697080017882,None,"In this task, you will read scenarios describing disruptions to your life’s purpose.
+Try to imagine these as realistically as you can.
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: read the scenario and try to reframe a new purpose despite the disruption.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you're ready.",,,,,,,,,,,,,,,,0,0,0,0,,,,,0.054907750003621913,,0.01709712499723537,0.054907750003621913,0.054907750003621913,1.2184037499973783,right,1.0398697080017882,None,"In this task, you will read scenarios describing disruptions to your life’s purpose.
+Try to imagine these as realistically as you can.
+
+• <c=white>White</c> border: read the sentence.
+
+• <c=#008000>Green</c> border: read the scenario and try to reframe a new purpose despite the disruption.
+
+• <c=#FF0000>Red</c> border: count the number of vowels and keep doing so until the next screen appears.
+
+Press any key when you're ready.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,563337,001,2026-01-27_10h27.40.062,untitled,2024.2.4,None,2026-01-27 10h28.03.691777 -0800,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.218490582999948,1.2378092080034548,3.1824686670006486,5,1.9327990819947445,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,563337,001,2026-01-27_10h27.40.062,untitled,2024.2.4,None,2026-01-27 10h28.03.691777 -0800,
+,,,,0,0,0,,,,,"Moving to Montreal 
+ 
+ Studying Cogntive Science 
+ 
+ Graduating ","Moving to Paris 
+ 
+ Studying neuroscience 
+ 
+ Conducting research","Moving to LA 
+ 
+ Studying at the BCI 
+ 
+ Writing a review ",Becoming a scientist,Advancing research,Making science accessible,"I am significant to my parents. 
+ 
+ We are  connected. 
+ 
+ I play an important role in keeping us close-knit.","I am  significant to my sister. 
+ 
+ We are  close. 
+ 
+ I am the only person with whom she talks. ","I am significant to my dad. 
+ 
+ We  play together. 
+ 
+ We are close. ","I want to be a good doctor, but AI now makes most medical decisions.","I want to protect the planet, but AI’s resource use is harming the environment.","I want to help people, but AI is replacing real human interaction.","Woke up this morning. 
+ 
+ Came to USC. 
+ 
+ Arrived at the BCI.","Mother 
+ 
+ Father 
+ 
+ Friends",Helping researchers,,,,,0,0,0,0,3.2098117920031655,,,,,,,,,,,,,,,,231.15735058300197,231.17165424999985,243.15715583300334,15.18738158299675,15.200801332997798,25.18752679199679,25.187656750000315,25.196521083002153,45.18619300000137,45.182386166998185,197.1678734579982,197.17146679200232,204.16577966699697,204.15587504200084,52.17120891700324,52.180002583001624,72.16957741700026,72.16605416699895,224.16826279200177,224.17180183299934,231.1665719579978,231.1573256249976,243.1668305830026,91.16693008300354,91.18050695800048,101.17002908299764,101.16665766700316,101.1667662079999,101.1809009580029,121.16978854199988,121.16686887499964,128.1673694170022,128.17407766699762,148.17091049999726,148.16737479199946,167.15615295799944,167.173980749998,177.16540050000185,177.15895995800383,177.159079750003,177.17333566700108,197.17146679200232,197.16784791700047,204.1560487500028,204.17326504200173,224.17180183299934,224.1682419170029,,,,,563337,001,2026-01-27_10h27.40.062,untitled,2024.2.4,None,2026-01-27 10h28.03.691777 -0800,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,243.1572830419973,243.17282266700204,248.17222366700298,248.16926799999783,563337,001,2026-01-27_10h27.40.062,untitled,2024.2.4,None,2026-01-27 10h28.03.691777 -0800,
