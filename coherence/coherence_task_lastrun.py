@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 This experiment was created using PsychoPy3 Experiment Builder (v2024.2.4),
-    on Tue 27 Jan 10:35:26 2026
+    on Wed 28 Jan 10:35:46 2026
 If you publish work using this script the most relevant publication is:
 
     Peirce J, Gray JR, Simpson S, MacAskill M, Höchenberger R, Sogo H, Kastman E, Lindeløv JK. (2019) 
@@ -1394,6 +1394,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         continueRoutine = True
         # update component parameters for each repeat
         # Run 'Begin Routine' code from code
+        event.clearEvents(eventType='keyboard')
         color_text = 'white'  # default
         # store start times for task_verification
         task_verification.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
@@ -2410,6 +2411,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         continueRoutine = True
         # update component parameters for each repeat
         # Run 'Begin Routine' code from code
+        event.clearEvents(eventType='keyboard')
         color_text = 'white'  # default
         # store start times for task_verification
         task_verification.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
@@ -2913,6 +2915,7 @@ def run(expInfo, thisExp, win, globalClock=None, thisSession=None):
         continueRoutine = True
         # update component parameters for each repeat
         # Run 'Begin Routine' code from code
+        event.clearEvents(eventType='keyboard')
         color_text = 'white'  # default
         # store start times for task_verification
         task_verification.tStartRefresh = win.getFutureFlipTime(clock=globalClock)
